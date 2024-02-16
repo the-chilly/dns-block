@@ -1,0 +1,2 @@
+##This is a blocklist for website I want blocked. Mostly telemetry stuff
+0.0.0.0 roblox.com
