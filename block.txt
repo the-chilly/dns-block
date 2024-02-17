@@ -1,3 +1,5 @@
 ##This is a blocklist for website I want blocked. Mostly telemetry stuff
 0.0.0.0 roblox.com
 0.0.0.0 rbxcdn.com
+0.0.0.0 www.roblox.com
+0.0.0.0 www.rbxcdn.com
